@@ -1,3 +1,5 @@
+Browser Stack cross platform test link with 5 parallel threads across browsers and Mobile devices : https://automate.browserstack.com/dashboard/v2/public-build/aFJjb1Q1YkpUWEVzekM5S0o3TkFnRTBxbExMZkNGU1p6UjRFenk5U2k0RlJqQkxnYUxMMmZENStuL3hZb0ZIMEVjU0lIenhmbHVZaExteHQ1VWU2bVE9PS0tK0Q4UVJpaHBEdkQ4ZERWWkhuRUg4QT09--f3c2f8978390b189cc6c06e60796e8f825259887
+
 # Selenium Cross-Platform Testing 🧪🌐
 
 This project automates cross-platform and cross-browser testing using **Selenium**. The script navigates to the Spanish news website **El País**, fetches the top 5 opinion articles, translates their titles into English, downloads associated images, and identifies words repeated more than twice in the article headers.
